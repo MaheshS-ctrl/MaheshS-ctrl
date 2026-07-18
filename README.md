@@ -8,7 +8,7 @@ I build production systems that span traditional full-stack development and AI a
 
 ### Featured projects
 
-**[CodeGraph-RAG](https://github.com/MaheshS-ctrl/CodeGraph-RAG)**
+**[CodeGraph-RAG](https://github.com/MaheshS-Sutar-itp/CodeGraph-RAG)**
 Local-first GraphRAG tool that parses Python repositories into Neo4j using Tree-sitter, with a FastAPI service layer and React frontend.
 
 **[checkout-app](https://github.com/Mahesh-Sutar-itp/checkout-app)**
